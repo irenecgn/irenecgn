@@ -2,7 +2,9 @@ Hi 👋 I'm Irene!
 =======================
 
 I’m a Frontend developer based in Barcelona 📍 
+
 I'm eager to continuously learn more and grow as a programmer! 🚀 
+
 When I’m not coding you can find me visiting a new city 🗺 or relaxing at the beach 🌴
 
 ### Skills
