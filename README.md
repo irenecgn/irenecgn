@@ -1,4 +1,4 @@
-Hi 👋 I'm Irene!
+Hi, I'm Irene!
 =======================
 
 I’m a Frontend developer based in Barcelona 📍 
